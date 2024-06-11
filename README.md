@@ -71,7 +71,7 @@
 
 ### 💬 Talks
 - 66th MIPT All-Russian Scientific Conference
-  - Determining a sufficient sample size based on the a posteriori distribution of model parameters
+  - [Determining a sufficient sample size based on the a posteriori distribution of model parameters](https://www.youtube.com/watch?v=WnIRaRl730A&t=1728s)
 
 ### 🎉 Other achievements
 #### Spring 2023–2024
@@ -83,9 +83,9 @@
 - Abramov scholarship for 1-3 year bachelor students with the best grades at MIPT
 
 ### 🐶 Projects
-- Models of epidemic spread, in particular COVID-19 as a model of stochastic chemical kinetics
-- Optimization methods for quadratic problems with large dimensionality
-- Intelligent Presentation Generator
+- [Models of epidemic spread, in particular COVID-19 as a model of stochastic chemical kinetics](https://github.com/kisnikser/Epidemic-Spread-Models)
+- [Optimization methods for quadratic problems with large dimensionality](https://github.com/kisnikser/Optimization-Methods)
+- [Intelligent Presentation Generator](https://github.com/kisnikser/Intelligent-Presentation-Generator)
 
 ### Languages
 🇷🇺 Russian - Native <br>
