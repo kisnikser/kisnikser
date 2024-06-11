@@ -4,7 +4,7 @@
 
 **Fields of interest:** Machine Learning, Optimization
 
-### [CV](https://docs.google.com/document/d/1jdLZTA3AKpMN6FJjoJle_kphrkk5LOnrjv5tbOGH8vM/edit?usp=sharing)
+### [CV](https://kisnikser.github.io/files/cv.pdf)
 
 ### 📊 ML stack
 <p align="left"> 
