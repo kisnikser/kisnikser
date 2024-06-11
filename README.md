@@ -1,6 +1,6 @@
 ## Nikita Kiselev
 
-**Machine learning engineer / Data Scientist**
+**Data Scientist / Deep Learning Engineer**
 
 **Fields of interest:** Machine Learning, Optimization
 
