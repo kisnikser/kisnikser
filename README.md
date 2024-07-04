@@ -58,11 +58,11 @@
   - Network design problem
 
 ### 🎓 Education
-- BSc in Applied Mathematics and Physics (Sep 2020 – Present)
+- BSc in Applied Mathematics and Physics (Sep 2020 – Jun 2024)
   - [Moscow Institute of Physics and Technology](https://mipt.ru)
   - Thesis: [Bayesian Sample Size Estimation](https://github.com/intsystems/Kiselev-BS-Thesis/blob/master/paper/main.pdf)
   - Advisor: [Andrey Grabovoy](https://andriygav.github.io/)
-  - GPA: 4.88/5 (8.91/10)
+  - GPA: 4.88/5 (8.99/10)
 
 ### 📝 Publications
 - Decentralized Optimization with Coupled Constraints (under review)
