@@ -1,4 +1,4 @@
-**Hi there!**
+**👋🏻 Hi there!**
 
 - My name is Nikita Kiselev.
 - I am Data Scientist and Optimization Researcher.
