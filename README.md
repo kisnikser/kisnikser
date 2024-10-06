@@ -3,7 +3,7 @@
 - My name is Nikita Kiselev
 - I am Data Scientist and Optimization Researcher
 - To learn more about me, see my [homepage](https://kisnikser.github.io/)
-- Also, check out my [resume](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=resume.tex&command=xelatex&force=true) and [CV](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=cv.tex&command=xelatex&force=true)
+- Also, check out my [Resume](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=resume.tex&command=xelatex&force=true) and [CV](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=cv.tex&command=xelatex&force=true)
 
 Below I provide links to my selected publications and projects available on GitHub.
 
