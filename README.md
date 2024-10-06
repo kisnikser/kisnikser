@@ -8,9 +8,10 @@
 Below I provide links to my selected publications and projects available on GitHub.
 
 **📝 Publications**
-- [Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes](https://github.com/kisnikser/landscape-hessian/tree/main)
-- [Sample Size Determination: Posterior Distributions Proximity](https://github.com/kisnikser/Posterior-Distributions-Proximity/tree/main)
-- [Forecasting fMRI Images From Video Sequences: Linear Model Analysis](https://github.com/DorinDaniil/Forecasting-fMRI-Images/tree/main)
+- [Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes](https://github.com/kisnikser/landscape-hessian)
+- [Sample Size Determination: Posterior Distributions Proximity](https://github.com/kisnikser/Posterior-Distributions-Proximity)
+- [Sample Size Determination: Likelihood Bootstrapping](https://github.com/kisnikser/Likelihood-Bootstrapping)
+- [Forecasting fMRI Images From Video Sequences: Linear Model Analysis](https://github.com/DorinDaniil/Forecasting-fMRI-Images)
 
 **🐶 Projects**
 - [Models of epidemic spread, in particular COVID-19 as a model of stochastic chemical kinetics](https://github.com/kisnikser/Epidemic-Spread-Models)
