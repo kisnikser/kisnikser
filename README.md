@@ -2,10 +2,10 @@
 
 - My name is Nikita Kiselev
 - I am Data Scientist and Optimization Researcher
-- To learn more about me, see my [homepage](https://kisnikser.github.io/)
+- To learn more about me, see my [Homepage](https://kisnikser.github.io/)
 - Also, check out my [Resume](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=resume.tex&command=xelatex&force=true) and [CV](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=cv.tex&command=xelatex&force=true)
 
-Below I provide links to my selected publications and projects available on GitHub.
+Below I provide links to my featured publications and projects available on GitHub
 
 **📝 Publications**
 - [Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes](https://github.com/kisnikser/landscape-hessian)
