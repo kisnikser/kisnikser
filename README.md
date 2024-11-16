@@ -1,9 +1,14 @@
-**👋🏻 Hi there!**
+[<img align="left" alt="kisnikser | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/kiselcheck)
+[<img align="left" alt="kisnikser | Google Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar/black/white" />](https://scholar.google.com/citations?user=8BOqs70AAAAJ&hl=ru)
+[<img align="left" alt="kisnikser | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/kisnikser)
+[<img align="left" alt="kisnikser | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" />](https://instagram.com/kisnikser)
+<br/>
 
-- My name is Nikita Kiselev
-- I am Data Scientist and Optimization Researcher
-- To learn more about me, see my [Homepage](https://kisnikser.github.io/)
-- Also, check out my [Resume](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=resume.tex&command=xelatex&force=true) and [CV](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=cv.tex&command=xelatex&force=true)
+You may want to:
+
+- Learn more about me, see my [Homepage](https://kisnikser.github.io/)
+- Check out my [Resume](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=resume.tex&command=xelatex&force=true) and [CV](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=cv.tex&command=xelatex&force=true)
+- Subscribe to my channel in [Telegram](https://t.me/kiselcheck)
 
 Below I provide links to my featured publications and projects available on GitHub
 
