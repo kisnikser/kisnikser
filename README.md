@@ -19,6 +19,7 @@ Below I provide links to my featured publications and projects available on GitH
 - [Forecasting fMRI Images From Video Sequences: Linear Model Analysis](https://github.com/DorinDaniil/Forecasting-fMRI-Images)
 
 **🐶 Projects**
+- [Just Relax It: Discrete Variables Relaxation](https://github.com/intsystems/discrete-variables-relaxation)
 - [Models of epidemic spread, in particular COVID-19 as a model of stochastic chemical kinetics](https://github.com/kisnikser/Epidemic-Spread-Models)
 - [Optimization methods for quadratic problems with large dimensionality](https://github.com/kisnikser/Optimization-Methods)
 - [Intelligent Presentation Generator](https://github.com/kisnikser/Intelligent-Presentation-Generator)
