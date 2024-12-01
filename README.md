@@ -13,10 +13,10 @@ You may want to:
 Below I provide links to my featured publications and projects available on GitHub
 
 **📝 Publications**
+- [Forecasting fMRI Images From Video Sequences: Linear Model Analysis](https://github.com/DorinDaniil/Forecasting-fMRI-Images)
 - [Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes](https://github.com/kisnikser/landscape-hessian)
 - [Sample Size Determination: Posterior Distributions Proximity](https://github.com/kisnikser/Posterior-Distributions-Proximity)
 - [Sample Size Determination: Likelihood Bootstrapping](https://github.com/kisnikser/Likelihood-Bootstrapping)
-- [Forecasting fMRI Images From Video Sequences: Linear Model Analysis](https://github.com/DorinDaniil/Forecasting-fMRI-Images)
 
 **🐶 Projects**
 - [Just Relax It: Discrete Variables Relaxation](https://github.com/intsystems/discrete-variables-relaxation)
