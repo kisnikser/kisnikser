@@ -19,7 +19,7 @@ Below I provide links to my featured publications and projects available on GitH
 - [Sample Size Determination: Likelihood Bootstrapping](https://github.com/kisnikser/Likelihood-Bootstrapping)
 
 **🐶 Projects**
-- [Just Relax It: Discrete Variables Relaxation](https://github.com/intsystems/discrete-variables-relaxation)
+- [Just Relax It: Discrete Variables Relaxation](https://github.com/intsystems/relaxit)
 - [Models of epidemic spread, in particular COVID-19 as a model of stochastic chemical kinetics](https://github.com/kisnikser/Epidemic-Spread-Models)
 - [Optimization methods for quadratic problems with large dimensionality](https://github.com/kisnikser/Optimization-Methods)
 - [Intelligent Presentation Generator](https://github.com/kisnikser/Intelligent-Presentation-Generator)
