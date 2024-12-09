@@ -7,7 +7,7 @@
 You may want to:
 
 - Learn more about me, see my [Homepage](https://kisnikser.github.io/)
-- Check out my [Resume](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=resume.tex&command=xelatex&force=true) and [CV](https://latexonline.cc/compile?git=https://github.com/kisnikser/CV&target=cv.tex&command=xelatex&force=true)
+- Check out my [Resume](https://kisnikser.github.io/resume.pdf) and [CV](https://kisnikser.github.io/cv.pdf)
 - Subscribe to my channel in [Telegram](https://t.me/kiselcheck)
 
 Below I provide links to my featured publications and projects available on GitHub
