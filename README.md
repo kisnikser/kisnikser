@@ -25,3 +25,10 @@ Below I provide links to my featured publications and projects available on GitH
 - [Models of epidemic spread, in particular COVID-19 as a model of stochastic chemical kinetics](https://github.com/kisnikser/Epidemic-Spread-Models)
 - [Optimization methods for quadratic problems with large dimensionality](https://github.com/kisnikser/Optimization-Methods)
 - [Intelligent Presentation Generator](https://github.com/kisnikser/Intelligent-Presentation-Generator)
+
+I'm also trying to contribute to the development of the research community with useful templates:
+
+**🧰 Templates**
+
+- [m1p-template](https://github.com/kisnikser/m1p-template): Simple and clean template for [My first scientific paper](https://m1p.org/index.php/My_first_scientific_paper) project
+- [ml-paper-template](https://github.com/kisnikser/ml-paper-template): Minimalistic Machine Learning paper template
