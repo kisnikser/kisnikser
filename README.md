@@ -30,5 +30,5 @@ I'm also trying to contribute to the development of the research community with 
 
 **🧰 Templates**
 
-- [m1p-template](https://github.com/kisnikser/m1p-template): Simple and clean template for [My first scientific paper](https://m1p.org/index.php/My_first_scientific_paper) project
+- [m1p-template](https://github.com/kisnikser/m1p-template): Simple and clean template for [My First Scientific Paper](https://m1p.org/index.php/My_first_scientific_paper) project
 - [research-template](https://github.com/kisnikser/research-template): Minimalistic research template
